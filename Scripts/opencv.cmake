@@ -1,0 +1,26 @@
+
+set( WITH_PROTOBUF OFF )  
+set( WITH_PTHREADS_PF OFF )  
+set( WITH_QUIRC OFF )  
+set( WITH_TIFF OFF )  
+set( WITH_JPEG OFF )
+set( WITH_V4L OFF )  
+set( WITH_VTK OFF )  
+set( WITH_WEBP OFF )  
+set( WITH_ITT OFF ) # ITT profiling
+set( WITH_TBB OFF ) # Threading Parallelism support
+set( WITH_ADE OFF ) # ADE Framework is a graph construction, manipulation, and processing framework
+set( WITH_CUDA OFF )
+set( WITH_NEON OFF )
+set( WITH_GSTREAMER OFF )
+set( WITH_FFMEPG OFF )
+set( BUILD_SHARED_LIBS OFF )
+set( BUILD_opencv_highgui OFF )
+set( BUILD_opencv_calib3d OFF )
+set( BUILD_opencv_python_bindings_generator OFF )
+set( BUILD_opencv_java_bindings_generator OFF )  
+set( BUILD_opencv_stitching OFF )
+set( INSTALL_TESTS OFF )
+set( BUILD_opencv_video OFF )
+set( BUILD_opencv_videoio OFF )
+set( BUILD_EXAMPLES ON )
